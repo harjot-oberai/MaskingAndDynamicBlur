@@ -9,4 +9,4 @@ A project for testing masking and blur in Andorid
 2. make a library out of this.
 
 # Credits
- Used [https://github.com/wasabeef/Blurry](Blurry) for blurring.
+ Used [Blurry](https://github.com/wasabeef/Blurry) for blurring.
